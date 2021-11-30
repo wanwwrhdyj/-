@@ -2,21 +2,21 @@
 
 ___
 
-## <span id="jump1">目录</span>
-1. 项目名称 (#jump)
-2. 目录 (#jump1)
-3. 项目背景 (#jump2)
-4. 项目基本功能 (#jump3)
-5. 环境依赖 (#jump4)
-6. 安装 (#jump5)
-7. 使用 (#jump6)
-8. 代码目录结构说明 (#jump7)
-9. 项目负责人 (#jump8)
-10. 项目成员 (#jump9)
+## <span id="jump2">目录</span>  
++ [1. 项目名称 ](#jump)
++ [2. 目录](#jump2) 
++ [3. 项目背景](#jump3)
++ [4. 项目基本功能](#jump4)
++ [5. 环境依赖](#jump5)
++ [6. 安装](#jump6)
++ [7. 使用](#jump7)
++ [8. 代码目录结构说明](#jump8)
++ [9. 项目负责人](#jump9)
++ [10. 项目成员](#jump10)
 
 ___
 
-## <span id="jump2">项目背景</span>
+## <span id="jump3">项目背景</span>
 
 汽车保险，即机动车辆保险，是指对机动车辆由于自然灾害或意外事故所造成的人身伤亡或财产损失负赔偿责任的一种商业保险。
 
@@ -24,7 +24,7 @@ ___
 
 ___
 
-## <span id="jump3">项目基本功能</span>
+## <span id="jump4">项目基本功能</span>
 
 在车险的销售渠道中，有数据显示至少30%的订单都来自4S店，但是车险的销售存在着门槛低、标准混乱，无法有效监管的问题。
 譬如，消费者购买车险可能面临着随意定价的问题，保险的销售员有比较大的弹性空间，这主要来自于车险销售较高的佣金。
@@ -74,26 +74,75 @@ ___
 	
 ___
 
-## <span id="jump4">环境依赖</span>
+## <span id="jump5">环境依赖</span>
+
+爱车宝兼容win7以上计算机系统页面，在谷歌、火狐浏览器中使用效果最佳。
 
 ___
 
-## <span id="jump5">安装</span>
+## <span id="jump6">安装</span>
 
 ___
-## <span id="jump6">使用</span>
-
-___
-
-## <span id="jump7">代码目录结构说明</span>
+## <span id="jump7">使用</span>
 
 ___
 
-## <span id="jump8">项目负责人</span>
+## <span id="jump8">代码目录结构说明</span>
+
++ 帮助详细.html
++ 帮助中心.html
++ 保单报价详情.html
++ 保单查询.html
++ 保单查询结果.html
++ 保单确认.html
++ 保单认证.html
++ 保单详情.html
++ 保险查询.html
++ 保险订单.html
++ 产品详细.html
++ 成功.html
++ 购车订单.html
++ 购车信息.html
++ 购物车.html
++ 品牌.html
++ 确认保单详情.html
++ 搜索.html
++ 网站地图.html
++ 违章查询结果.html
++ 文章介绍.html
++ 协议.html
++ 询价订单.html
++ 用户中心_订单管理.html
++ 用户中心_密码管理.html
++ 用户中心_取消订单.html
++ 用户中心_头像管理.html
++ 用户中心_违章记录.html
++ 用户中心_新车订单.html
++ 用户中心_询价订单.html
++ 用户中心_意见反馈.html
++ 用户中心_用户信息.html
++ 用户中心.html
++ 支付页面.html
++ 知识.html
++ 知识库.html
++ cars_list.html
++ index.html
++ Insurance.html
++ login.html
++ registered.html
 
 ___
 
-## <span id="jump9">项目成员</span>
+## <span id="jump9">项目负责人</span>
 
+潘侠安
 ___
-@2021.11.29
+
+## <span id="jump10">项目成员</span>
+
+潘侠安 -项目经理 <br>
+王梦瑶 -项目文档 <br>
+严振宇 -项目开发 <br>
+朱申吉 -项目文档 <br>
+___
+@是今晚的月色美还是我美   2021.11.29
